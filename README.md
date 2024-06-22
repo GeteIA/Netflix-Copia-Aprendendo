@@ -1,4 +1,4 @@
-Tentei recriar um pouci da versão antiga do site da netflix
+Tentei recriar um pouco da versão antiga do site da netflix
 ainda não acabei
 
 I tried to recreate some of the old version of the Netflix website
